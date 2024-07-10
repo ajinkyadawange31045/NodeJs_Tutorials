@@ -1,8 +1,21 @@
-// ch1 => means chapter 1. (run first project on nodeJS env)
-// ch2 ==> wrapper module in nodejs
-// ch3 => path module
-// ch4 => other way to import in nodejs
-// ch5 => promise API (file system)c
-<!-- ch6 = > API (callback API) -->
+<!-- ch1 => means chapter 1. (run first project on nodeJS env) -->
+<!-- ch2 ==> wrapper module in nodejs -->
+<!-- ch3 => path module -->
+<!-- ch4 => other way to import in nodejs -->
+<!-- ch5 => promise API (file system) -->
+<!-- ch6 => API (callback API) -->
+<!-- ch6 => Reading directory, write dir, copy them, etc -->
+<!-- ch7 => mkdirsync -->
+<!-- ch8 => OS module  -->
+<!-- ch9 => URL module -->
+<!-- ch10 => EventEmitter - changes which will take place, once event occurs -->
+<!-- ch11 => http module, create server, etc -->
+<!-- ch12 => nodemon, we don't have to restart the server everytime we make some changes -->
+<!-- ch13 => if else condition, url -->
+<!-- ch14 => static file rendering, (using html files in http rendering) -->
+<!-- ch15 => DNS module (lookup, resolve) -->
+<!-- ch16 => (export import concept) accessing differnt files from eachothers -->
+<!-- ch17 => playing with above concept -->
+
 
 ch17 => import and export using es6

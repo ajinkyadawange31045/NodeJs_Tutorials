@@ -26,16 +26,12 @@ try {
 }
 
 
-
-
-
 // How to remove directory
 try {
     await fs.rmdir('C:/Users/ajink/OneDrive/Desktop/assignment1/npm_tutorials/demo')
     console.log('removed')
 } catch (error) {
     console.log('error')
-    
 }
 
 

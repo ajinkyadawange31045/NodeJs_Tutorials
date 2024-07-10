@@ -19,11 +19,11 @@ import { callbackify } from 'util'
 
 
 
-// // // /creating directory path is not required to be there.
-// fs.mkdir('C:/Users/ajink/OneDrive/Desktop/assignment1/npm_tutorials/ch6/test/demo',{recursive:true},(error )=> {
-//     if (error) throw error;
-//     console.log("Directory created...")
-// });
+// // /creating directory path is not required to be there.
+fs.mkdir('C:/Users/ajink/OneDrive/Desktop/assignment1/npm_tutorials/ch6/test/demo',{recursive:true},(error)=> {
+    if (error) throw error;
+    console.log("Directory created...")
+});
 
 
 
